@@ -1,3 +1,9 @@
+первая версия to do календаря на реакте. 
+Пока что не поддерживаются: 
+1) пользователи
+2) хранение информации
+3) дизайн
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
